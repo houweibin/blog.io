@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "记录与激励"
+description: "明天都是一个新的自己，为塑造更好的自己加油"
 header-img: "img/green.jpg"
 ---
 
