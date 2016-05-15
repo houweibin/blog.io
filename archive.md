@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "是男人就要写满一百篇"
+description: "是男人就该写满一百篇"
 header-img: "img/orange.jpg"
 ---
 
