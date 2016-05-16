@@ -1,4 +1,4 @@
-此博客 fork 自陈素封 [cnfeat](cnfeat.com)，[Azeril](http://azeril.me/)感谢。
+此博客 fork 自陈素封 [cnfeat](cnfeat.com)，原作者：[Azeril](http://azeril.me/)感谢。
 
 ##GO AHEAD
 
